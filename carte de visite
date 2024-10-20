@@ -66,7 +66,7 @@ fun LogoSection() {
         color = Color(0xFF3DDC84)
     )
     Text(
-        text = "votre nom",
+        text = "Uriielle Azoh Seri",
         fontSize = 16.sp,
         color = Color.Gray
     )
